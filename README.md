@@ -1,2 +1,2 @@
 # Spotify-clone
- Sptotify UI clone using HTML CSS
+ Spotify UI clone using HTML CSS
